@@ -1,1 +1,8 @@
 # THIS FILE IS READ-ONLY
+
+
+# Enforce read-only permissions
+*.py      -text diff=python readonly
+*.txt     -text readonly
+*.md      -text readonly
+LICENSE   -text readonly
