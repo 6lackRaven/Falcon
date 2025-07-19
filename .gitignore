@@ -1,0 +1,50 @@
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*.swp
+*.bak
+*.orig
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# API keys and sensitive data
+config.json
+*.key
+*.env
+secrets.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+.vscode/
+*.code-workspace
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Log files
+*.log
+logs/
+
+# Test files
+test.py
+tests/
+
+# Byte-compiled / optimized files
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Documentation
+docs/_build/
