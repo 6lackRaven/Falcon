@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# falcon.py
-
 import argparse
 import json
 import re
@@ -194,7 +191,7 @@ def phone_scan(phone):
     # Use abstractapi.com
     try:
         response = requests.get(
-            f"https://phonevalidation.abstractapi.com/v1/?api_key=YOUR_ABSTRACT_API_KEY&phone={phone}",
+            f"https://phonevalidation.abstractapi.com/v1/?api_key=Key:437e167ab12f47dfab96ff120ed9fed2&phone={phone}",
             timeout=10
         )
         data = response.json()
@@ -325,7 +322,7 @@ def ip_scan(ip):
     # Shodan data
     try:
         response = requests.get(
-            f"https://api.shodan.io/shodan/host/{ip}?key=YOUR_SHODAN_API_KEY",
+            f"https://api.shodan.io/shodan/host/{ip}?key=NhLiG47gOAg43GPFVAGItIHDdoWDZJEx",
             timeout=10
         )
         shodan_data = response.json()
@@ -462,22 +459,4 @@ def main():
     print("\n\033[1;33m[!] Remember: With great power comes great responsibility. Use ethically!\033[0m")
 
 if __name__ == "__main__":
-    # File protection mechanism
-    if __readonly__:
-        try:
-            # Attempt to modify file (should fail in production)
-            with open(__file__, 'a') as f:
-                f.write("\n# Attempted modification")
-            print("\033[1;31m[!] Security alert: File modification detected!\033[0m")
-        except:
-            pass
     main()
-
-# Attempted modification
-# Attempted modification
-# Attempted modification
-# Attempted modification
-# Attempted modification
-# Attempted modification
-# Attempted modification
-# Attempted modification
