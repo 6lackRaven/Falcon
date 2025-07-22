@@ -9,7 +9,12 @@
 [![GitHub stars](https://img.shields.io/github/stars/6lackRaven/Falcon?style=social)](https://github.com/6lackRaven/Falcon)
 
 > Keen-eyed intelligence gathering with predatory precision
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/202351661/469445414-6cb75f90-19f8-47fe-8e88-c3541fb38fe5.png" width="250"/>
+</p>
 
+# GhostEyes 👁️  
+Advanced network recon tool built with Python.
 Falcon is an advanced OSINT reconnaissance toolkit designed for ethical security researchers and penetration testers. It combines multiple intelligence gathering techniques into a unified platform with strict ethical enforcement mechanisms.
 
 **Important: All files in this repository are read-only to maintain integrity.**
