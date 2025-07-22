@@ -19,7 +19,6 @@ import hashlib
 __author__ = "6lackRaven"
 __version__ = "1.0"
 __github__ = "https://github.com/6lackRaven"
-__readonly__ = True  # File integrity protection
 
 # ==============================
 # FALCON BANNER
@@ -474,4 +473,11 @@ if __name__ == "__main__":
             pass
     main()
 
+# Attempted modification
+# Attempted modification
+# Attempted modification
+# Attempted modification
+# Attempted modification
+# Attempted modification
+# Attempted modification
 # Attempted modification
