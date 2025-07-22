@@ -10,10 +10,9 @@
 
 > Keen-eyed intelligence gathering with predatory precision
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/202351661/469445414-6cb75f90-19f8-47fe-8e88-c3541fb38fe5.png" width="250"/>
+  <img src="https://private-user-images.githubusercontent.com/202351661/469445414-6cb75f90-19f8-47fe-8e88-c3541fb38fe5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyMTgwNjEsIm5iZiI6MTc1MzIxNzc2MSwicGF0aCI6Ii8yMDIzNTE2NjEvNDY5NDQ1NDE0LTZjYjc1ZjkwLTE5ZjgtNDdmZS04ZTg4LWMzNTQxZmIzOGZlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMlQyMDU2MDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MmNjZWMzM2M1MmY5NmY3OTcwMmRiNDEzZTJhMDk3MjEzMjdjNjU1NTRkODZiMDEwMGZjYzk3ZjA0ZDAzOGRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Wjek21cxKsemQDvXjFD0txKT5dNaxMNsOKj3jxYMmzs" width="250"/>
 </p>
 
-# GhostEyes 👁️  
 Advanced network recon tool built with Python.
 Falcon is an advanced OSINT reconnaissance toolkit designed for ethical security researchers and penetration testers. It combines multiple intelligence gathering techniques into a unified platform with strict ethical enforcement mechanisms.
 
