@@ -82,3 +82,22 @@ graph TD
 > This tool is for **authorized security research only**. Unauthorized use is strictly prohibited. Developers assume no liability for misuse.
 
 ---
+## Contact
+
+If you have any questions, suggestions, or want to collaborate, feel free to reach out:
+
+- **Email:** harleystanislas.raven@gmail.com
+- **GitHub:** [https://github.com/6lackRaven](https://github.com/6lackRaven)
+- **FaceBook:** [Harley Stanislas](https://www.facebook.com/profile.php?id=100087273507449)
+---
+
+## Support
+
+If you find this project useful, you can support me by:
+
+- ⭐️ Starring the repository
+- Sharing the project with your network
+- [Sponsoring me on GitHub](https://github.com/sponsors/6lackRaven)
+- Reporting issues or contributing to the code
+
+Thank you for your support!
