@@ -1,0 +1,37 @@
+{
+  "username": "RavenObsidian",
+  "results": {
+    "github": {
+      "status": "found",
+      "url": "https://github.com/RavenObsidian"
+    },
+    "twitter": {
+      "status": "redirect",
+      "location": "https://x.com/RavenObsidian"
+    },
+    "instagram": {
+      "status": "redirect",
+      "location": "https://instagram.com/RavenObsidian/"
+    },
+    "reddit": {
+      "status": "redirect",
+      "location": "https://www.reddit.com/user/RavenObsidian"
+    },
+    "tiktok": {
+      "status": "redirect",
+      "location": "https://www.tiktok.com/@RavenObsidian"
+    },
+    "youtube": {
+      "status": "redirect",
+      "location": "https://www.youtube.com/@RavenObsidian"
+    },
+    "steam": {
+      "status": "found",
+      "url": "https://steamcommunity.com/id/RavenObsidian"
+    },
+    "gitlab": {
+      "status": "redirect",
+      "location": "https://gitlab.com/users/sign_in"
+    }
+  }
+}

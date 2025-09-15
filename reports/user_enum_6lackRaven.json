@@ -1,0 +1,37 @@
+{
+  "username": "6lackRaven",
+  "results": {
+    "github": {
+      "status": "found",
+      "url": "https://github.com/6lackRaven"
+    },
+    "twitter": {
+      "status": "redirect",
+      "location": "https://x.com/6lackRaven"
+    },
+    "instagram": {
+      "status": "redirect",
+      "location": "https://instagram.com/6lackRaven/"
+    },
+    "reddit": {
+      "status": "redirect",
+      "location": "https://www.reddit.com/user/6lackRaven"
+    },
+    "tiktok": {
+      "status": "redirect",
+      "location": "https://www.tiktok.com/@6lackRaven"
+    },
+    "youtube": {
+      "status": "redirect",
+      "location": "https://www.youtube.com/@6lackRaven"
+    },
+    "steam": {
+      "status": "found",
+      "url": "https://steamcommunity.com/id/6lackRaven"
+    },
+    "gitlab": {
+      "status": "redirect",
+      "location": "https://gitlab.com/users/sign_in"
+    }
+  }
+}

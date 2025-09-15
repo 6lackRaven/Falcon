@@ -1,0 +1,11 @@
+{
+  "input": "+242053444949",
+  "valid": true,
+  "e164": "+242053444949",
+  "country": "CG",
+  "country_code": 242,
+  "region": "Congo",
+  "carrier": "Airtel",
+  "map": null,
+  "notes": []
+}
